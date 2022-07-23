@@ -9,9 +9,6 @@ numpy
 pandas
 scikit-learn
 
-#web
-webbrowser
-
 # tests/linter
 black
 coverage
