@@ -1,6 +1,6 @@
 # tests/test_lib.py
 
-from safiaspackage import lib
+from safiaspackage.lib import try_me
 
 def just_testing():
-    assert lib.try_me != 2
+    assert try_me() != 2
